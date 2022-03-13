@@ -1,0 +1,9 @@
+.footer {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.6em;
+  white-space: pre-line;
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%);
+}

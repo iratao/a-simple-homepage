@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders form item of submit type correctly 1`] = `
+<div
+  className="form"
+>
+  <div
+    className="formItem undefined"
+  >
+    <button
+      onClick={null}
+    >
+      click
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders form item with name property correctly 1`] = `
+<div
+  className="form"
+>
+  <div
+    className="formItem undefined"
+  >
+    <input />
+  </div>
+</div>
+`;
+
+exports[`renders one form item correctly 1`] = `
+<div
+  className="form"
+>
+  <div
+    className="formItem undefined"
+  >
+    <input />
+  </div>
+</div>
+`;

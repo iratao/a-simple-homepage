@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can be set with value 1`] = `
+<input
+  className="input"
+  value="custom input value"
+/>
+`;
+
+exports[`correctly shows custom placeholder 1`] = `
+<input
+  className="input"
+  placeholder="custom input placeholder"
+/>
+`;
+
+exports[`renders correctly 1`] = `
+<input
+  className="input"
+/>
+`;

@@ -1,0 +1,30 @@
+.wrapper {
+  padding: 20px 10px;
+}
+
+.content {
+  padding-top: 20px;
+}
+
+.sendButton {
+  width: 100%;
+}
+
+.title {
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 16px;
+}
+
+.sendButtonWrapper {
+  margin-top: 40px;
+}
+
+.error {
+  text-align: center;
+  font-style: italic;
+  padding-top: 10px;
+  color: red;
+}

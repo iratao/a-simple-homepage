@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`register fields to it's child correctly 1`] = `
+<div
+  className="formItem undefined"
+>
+  <input />
+   
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="formItem undefined"
+>
+  <input />
+   
+</div>
+`;

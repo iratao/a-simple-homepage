@@ -1,0 +1,47 @@
+.button {
+  padding: 0 12px;
+  color: rgb(85, 85, 85);
+  font-weight: 400;
+  background: white;
+  white-space: nowrap;
+  text-align: center;
+  border: 1px solid grey;
+  cursor: pointer;
+  user-select: none;
+  font-family: inherit;
+}
+
+.button[disabled], .button:hover[disabled] {
+  color: #00000040;
+  border-color: #d9d9d9;
+  background: #f5f5f5;
+  text-shadow: none;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+.button:hover {
+  border-color: black;
+  color: black;
+}
+
+.large {
+  height: 44px;
+  font-weight: 600;
+}
+
+.medium {
+  height: 36px;
+  font-weight: 500;
+}
+
+.small {
+  height: 32px;
+  font-weight: 400;
+}
+
+.loading {
+  text-align: center;
+  vertical-align: -0.4em;
+  width: 1.5em;
+}

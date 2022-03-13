@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can set custom className 1`] = `
+<button
+  className="myCustomClassName button medium"
+>
+   
+  Click
+</button>
+`;
+
+exports[`renders correctly 1`] = `
+<button
+  className=" button medium"
+>
+   
+  Click
+</button>
+`;
+
+exports[`show loading icon when in loading mode 1`] = `
+<button
+  className=" button medium"
+  disabled={true}
+>
+  <img
+    className="img loading "
+    src="test-file-stub"
+  />
+   
+  Click
+</button>
+`;
