@@ -1,8 +1,16 @@
-# webpack-seed
-Webpack 5 + TypeScript + Jest + Sass + ESLint seed project
+## Available Scripts
 
-*Updated: 10 Oct 2021*
+In the project directory, you can run:
 
-### Installation:
+### `npm start`
 
-Just simply run `npm i`
+Runs the app in the development mode.\
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
+### `npm test`
+
+Launches the test runner.
+
+### `npm run build`
+
+Builds the app for production to the `dist` folder.
