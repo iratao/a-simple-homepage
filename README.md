@@ -2,9 +2,10 @@
 
 In the project directory, you can run:
 
-### Runs the app in the development mode.
+### Start the app
 
 `npm install`
+
 `npm start`
 
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
