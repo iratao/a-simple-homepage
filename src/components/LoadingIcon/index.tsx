@@ -1,7 +1,7 @@
 
 import React from 'react'
 import loadingIcon from './loading.svg'
-import styles from './index.css'
+import styles from './index.less'
 
 interface Props {
   className?: string;

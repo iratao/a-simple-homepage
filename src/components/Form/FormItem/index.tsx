@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import ErrorMsg from '../ErrorMsg'
 import { FormInstance, Rules, FormItemType } from '../types'
-import styles from './index.css'
+import styles from './index.less'
 
 interface FormItemProps {
   children: React.ReactElement;

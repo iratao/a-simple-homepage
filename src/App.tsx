@@ -5,7 +5,7 @@ import Content from './biz-components/Content'
 import Footer from './biz-components/Footer'
 import ErrorBoundary from './biz-components/ErrorBoundary';
 
-import styles from './App.css'
+import styles from './App.less'
 
 function App() {
   return (

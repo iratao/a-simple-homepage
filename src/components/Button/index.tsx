@@ -1,7 +1,7 @@
 import React from 'react'
 import CommonProps from '../../types/CommonProps'
 import LoadingIcon from '../LoadingIcon'
-import styles from './index.css'
+import styles from './index.less'
 
 interface Props extends CommonProps {
   size?: 'small' | 'medium' | 'large' | 'auto';

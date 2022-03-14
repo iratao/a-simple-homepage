@@ -3,7 +3,7 @@ import RequestModalContent from '../RequestModalContent'
 import CongratsModalContent from '../CongratsModalContent'
 import Button from '../../components/Button'
 import Modal from '../../components/Modal'
-import styles from './index.css'
+import styles from './index.less'
 
 const Content = () => {
   const [ showModal, setShowModal ]= useState(false)

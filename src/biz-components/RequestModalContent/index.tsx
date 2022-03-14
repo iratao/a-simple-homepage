@@ -5,7 +5,7 @@ import Input from '../../components/Input'
 import Button from '../../components/Button'
 import CommonProps from '../../types/CommonProps'
 import * as services from '../../services/index';
-import styles from './index.css'
+import styles from './index.less'
 
 interface Props extends CommonProps {
   onSuccess?: () => void
